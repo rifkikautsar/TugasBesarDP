@@ -1,1 +1,1 @@
-# This is Our Simple Project for RPL 2
+# Tugas Besar Design Pattern
